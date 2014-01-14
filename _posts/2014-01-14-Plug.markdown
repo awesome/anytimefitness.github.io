@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Shameless Plug
+date:   2014-01-14 12:19:00
+author: jjnguy
+categories:
+- general
+
+---
+
+Hey! If you didn't know already I am producing a Youtube video series called Beer and Code. 
+I talk about a wide varity of topics. 
+If I know how to do it, and I find it interesting, I'll probably make a video about it.
+
+You can check out my channel here: http://www.youtube.com/user/BeerAndCode
+
+It's a bit sparse for now, but I'm working on it.
