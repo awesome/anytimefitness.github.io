@@ -11,3 +11,5 @@ categories:
 Hello everybody. This is a placeholder blog post. I could check this into a branch so it wouldn't show up on the main page. But I didn't because no one knows about this main page, probably.
 
 I should include another paragraph as I style.
+
+Brian is stupid.
