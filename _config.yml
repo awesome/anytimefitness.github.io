@@ -1,4 +1,7 @@
 name: Anytime Fitness Tech
+description: Blogging on full stack software engineering including C#, iOS and Android.
+url: http://tech.anytimefitness.com
+
 permalink: /:year/:month/:title
 markdown: redcarpet
 pygments: true

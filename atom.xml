@@ -1,0 +1,23 @@
+---
+  layout: none
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>{{ site.name | xml_escape }}</title>
+    <subtitle>{{ site.description | xml_escape }}</subtitle>
+    <link href="{{ site.url }}/atom.xml" rel="self"/>
+    <link href="{{ site.url }}"/>
+    <id>http://tech.anytimefitness.com/</id>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+
+    {% for post in site.posts limit:20 %}
+    <entry>
+        <title>{{ post.title | xml_escape }}</title>
+        <summary>{{ post.excerpt | xml_escape }}</summary>
+        <link href="{{ site.url }}{{ post.url }}"/>
+        <id>{{ site.url }}{{ post.id }}</id>
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+    </entry>
+    {% endfor %}
+</feed>
