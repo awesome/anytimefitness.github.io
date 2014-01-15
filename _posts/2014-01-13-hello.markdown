@@ -8,8 +8,10 @@ categories:
 
 ---
 
-Hello everybody. This is a placeholder blog post. I could check this into a branch so it wouldn't show up on the main page. But I didn't because no one knows about this main page, probably.
+Truth be told, this post serves little purpose.
 
-I should include another paragraph as I style.
+We're building out our blog with [Jekyll](https://github.com/mojombo/jekyll) and [Git Hub Pages](http://pages.github.com/), I needed a post to flesh out the HTML and CSS. This post serves that purpose wonderfully.
 
-Brian is stupid.
+As way of introduction, we're the tech team working at [Anytime Fitness](http://anytimefitness.com/). Yes, we're a fitness company, but that's why we decided to make a tech-oriented blog. We want to fight the natural bias that only "tech" companies can have awesome tech teams.
+
+Real posts will soon follow to prove (or disprove I guess) our awesomeness.
